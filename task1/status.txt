@@ -1,0 +1,18 @@
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .gitignore
+        new file:   .idea/.gitignore
+        new file:   .idea/misc.xml
+        new file:   .idea/modules.xml
+        new file:   .idea/vcs.xml
+        new file:   eduGit.iml
+        new file:   task1/status.txt
+
+$ git status
+On branch master
+nothing to commit, working tree clean

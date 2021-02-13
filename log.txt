@@ -1,0 +1,6 @@
+$ git log
+commit 201ddd5e32b6b904e0f0d4e26224acf7ad5bd84c (HEAD -> master)
+Author: Nicolay Shirnin <shirnin.kolia@gmail.com>
+Date:   Tue Feb 9 19:02:33 2021 +0300
+
+    add .gitignore
